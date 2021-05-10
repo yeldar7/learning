@@ -1,0 +1,42 @@
+﻿  AssetManager.cpp
+  Game.cpp
+F:\CS235\cs235\Unit 11 - Student project\FlappyBird\Game.cpp(2,10): fatal error C1083: Cannot open include file: 'SplashState.h': No such file or directory
+  InputManager.cpp
+F:\CS235\cs235\Unit 11 - Student project\FlappyBird\InputManager.cpp(10,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\CS235\cs235\Unit 11 - Student project\FlappyBird\InputManager.cpp(10,29): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\CS235\cs235\Unit 11 - Student project\FlappyBird\InputManager.cpp(9,70): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\CS235\cs235\Unit 11 - Student project\FlappyBird\InputManager.cpp(9,46): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  main.cpp
+  StateMachine.cpp
